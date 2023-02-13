@@ -1,7 +1,3 @@
-PicoHeli
+# PicoHeli
 
-A side scrolling game about seeing how long you can last against a never ending wave of enemies with nothing but some bullets, missiles and your reflexes.
-
-Platform: Pico-8
-Language: Lua
-Status: WIP
+A side scrolling shoot'em up game. My first foray into Pico-8.
